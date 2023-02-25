@@ -22,4 +22,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Here is a preview of how it looks!
-![image](https://user-images.githubusercontent.com/89038003/221358948-0773ca78-dc06-4aab-aca9-9ac9be1a21b8.png)
+[Movie Land.webm](https://user-images.githubusercontent.com/89038003/221359138-6e2f68c6-0fe2-44e6-b701-56c6a8d18277.webm)
+
